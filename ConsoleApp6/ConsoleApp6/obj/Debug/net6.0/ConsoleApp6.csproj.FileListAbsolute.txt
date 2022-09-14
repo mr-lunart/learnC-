@@ -1,0 +1,30 @@
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+d:\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+d:\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+D:\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+D:\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+D:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+d:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+d:\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+c:\Users\HP\Data 1\PBO\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll
