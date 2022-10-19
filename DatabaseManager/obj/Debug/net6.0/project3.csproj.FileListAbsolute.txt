@@ -1,0 +1,17 @@
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.csproj.AssemblyReference.cache
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.GeneratedMSBuildEditorConfig.editorconfig
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.AssemblyInfoInputs.cache
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.AssemblyInfo.cs
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.csproj.CoreCompileInputs.cache
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/project3
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/project3.deps.json
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/project3.runtimeconfig.json
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/project3.dll
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/ref/project3.dll
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/project3.pdb
+/home/luneriazz/dotnet app/project3/bin/Debug/net6.0/Npgsql.dll
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.csproj.CopyComplete
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.dll
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/ref/project3.dll
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.pdb
+/home/luneriazz/dotnet app/project3/obj/Debug/net6.0/project3.genruntimeconfig.cache

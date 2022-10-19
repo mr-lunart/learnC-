@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jMXXxOSfz5LkmU8et+HHcZUcj51cOh4aAeS4oqchY9uhYZPE2aZVMlvB0L1Z+V2uv8MBFAAEIlPpbaVS2XERiw==",
+  "success": true,
+  "projectFilePath": "/home/luneriazz/dotnet app/project3/project3.csproj",
+  "expectedPackageFiles": [
+    "/home/luneriazz/.nuget/packages/npgsql/6.0.7/npgsql.6.0.7.nupkg.sha512",
+    "/home/luneriazz/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
